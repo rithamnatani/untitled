@@ -20,3 +20,4 @@ Use it as plain Markdown in Zed, or open the folder as an Obsidian vault for wik
 - [[03-Characters/Cast Index]]
 - [[01-Story/Premise]]
 - [[01-Story/Timeline]]
+- [[SETUP]]
